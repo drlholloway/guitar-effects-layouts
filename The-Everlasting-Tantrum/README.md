@@ -6,7 +6,7 @@
 ![Schematic](<Grindhaus Fuzz.svg>)
 
 ## PCB
-![PCB](<the-everlasting-tantrun-2025-09-21.png>)
+![PCB](<the-everlasting-tantrum-2025-09-21.png>)
 
 ## Faceplate
-![Faceplate](<the-everlasting-tantrun-faceplate-2025-09-21.png>)
+![Faceplate](<the-everlasting-tantrum-faceplate-2025-09-21.png>)
