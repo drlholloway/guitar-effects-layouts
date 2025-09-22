@@ -1,5 +1,14 @@
 # The Everlasting Tantrum
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Schematic](#schematic)
+3. [PCB](#pcb)
+4. [Faceplate](#faceplate)
+5. [Tayda Drill Template](#tayda-drill-template)
+6. [BOM](#bom)
+7. [Notes](#notes)
+
 ## Introduction
 **The Everlasting Tantrum** is my take on an unreleased fuzz pedal that was designed by DOD and Devi Ever. It was essentially a Hyperion followed by a Big Muff style tone stack and then a booster stage afterwards. I've augmented it with a switch to bypass the tone stack, another switch to allow you to choose between three different Devi Ever fuzzes, and an oscillation potentiometer that lets you introduce feedback into the fuzz circuit itself.
 
