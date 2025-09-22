@@ -13,7 +13,7 @@
 7. [Notes](#notes)
 
 ## Introduction
-**The Everlasting Tantrum** is my take on an unreleased fuzz pedal that was designed by DOD and Devi Ever. It was essentially a Hyperion followed by a Big Muff style tone stack and then a booster stage afterwards. I've augmented it with a switch to bypass the tone stack, another switch to allow you to choose between three different Devi Ever fuzzes, and an oscillation potentiometer that lets you introduce feedback into the fuzz circuit itself.
+**The Everlasting Tantrum** is my take on an [unreleased fuzz pedal](https://forum.pedalpcb.com/threads/dod-grindhaus-fuzz%E2%80%94-the-mythical-unreleased-gem-of-the-cram-era.18194/) that was designed by DOD and Devi Ever. It was essentially a Hyperion followed by a Big Muff style tone stack and then a booster stage afterwards. I've augmented it with a switch to bypass the tone stack, another switch to allow you to choose between three different Devi Ever fuzzes, and an oscillation potentiometer that lets you introduce feedback into the fuzz circuit itself.
 
 ## Schematic
 ![Schematic](<Grindhaus Fuzz.svg>)
