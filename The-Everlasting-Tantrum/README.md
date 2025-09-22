@@ -45,8 +45,8 @@ The pedal is designed to use a 125B enclosure. You can use purchase an enclosure
 | C4             | 100nF | Film               |
 | C5             | 100nF | Film               |
 | C6             | 100nF | Film               |
-| C7             | 4nF   | Film               |
-| C8             | 10nF  | Film               |
+| C7             | 4nF   | Film, Big Muff Tone Stack |
+| C8             | 10nF  | Film, Big Muff Tone Stack |
 | C9             | 100nF | Film               |
 | C10            | 100nF | Film               |
 | C100           | 100uF | Electrolytic       |
@@ -56,7 +56,7 @@ The pedal is designed to use a 125B enclosure. You can use purchase an enclosure
 
 | Component Name | Value   | Note               |
 |----------------|---------|--------------------|
-| D1             | LED 3mm | choose your poison |
+| D1             | LED 3mm | choose your poison, 5mm works as well. |
 | D2             | 1N5817  |                    |
 
 ### Transistors
@@ -81,3 +81,8 @@ The pedal is designed to use a 125B enclosure. You can use purchase an enclosure
 | Footswitch     | 3PDT    |                      |
 | audio jack x2  | mono    |                      |
 | dc jack        | 9v      |                      |
+
+### Notes
+
+1. R7, R8, C7, and C8 make up the Big Muff style tone stack. You can modify these to taste and choose other Big Muff style tone stacks (Triangle, Green Russian, etc.)
+2. If you use the faceplate, make sure you mount the LED directly against the PCB as it will get a stronger light.
