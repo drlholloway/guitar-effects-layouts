@@ -1,4 +1,7 @@
 # The Everlasting Tantrum
+| Front | Guts |
+|-------|------|
+| ![Front](the-everlasting-tantrum-complete.jpg) | ![Guts](the-everlasting-tantrum-guts.jpg) |
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -95,3 +98,4 @@ The pedal is designed to use a 125B enclosure. You can use purchase an enclosure
 
 1. R7, R8, C7, and C8 make up the Big Muff style tone stack. You can modify these to taste and choose other Big Muff style tone stacks (Triangle, Green Russian, etc.)
 2. If you use the faceplate, make sure you mount the LED directly against the PCB as it will get a stronger light.
+3. The 3DPT foot switch can be wired using a standard true-bypass wiring scheme.
