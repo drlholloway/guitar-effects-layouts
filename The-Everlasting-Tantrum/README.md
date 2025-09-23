@@ -99,3 +99,12 @@ The pedal is designed to use a 125B enclosure. You can use purchase an enclosure
 1. R7, R8, C7, and C8 make up the Big Muff style tone stack. You can modify these to taste and choose other Big Muff style tone stacks (Triangle, Green Russian, etc.)
 2. If you use the faceplate, make sure you mount the LED directly against the PCB as it will get a stronger light.
 3. The 3DPT foot switch can be wired using a standard true-bypass wiring scheme.
+
+## Licensing
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This layout is licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
+
+## Versions
+* **2025.09.21** - First public release after verification
