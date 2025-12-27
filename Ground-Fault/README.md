@@ -65,3 +65,9 @@ Ground Swell is a clone of Fuzzhugger FX's [Arc Flash](https://www.youtube.com/w
 
 
 ## Notes
+
+## Licensing
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This layout is licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
