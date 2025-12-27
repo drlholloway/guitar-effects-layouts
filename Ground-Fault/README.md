@@ -33,21 +33,33 @@ Ground Swell is a clone of Fuzzhugger FX's [Arc Flash](https://www.youtube.com/w
 
 | Component Name | Value | Note               |
 |----------------|-------|--------------------|
-| R1             | 1M    | Pull down resistor |
-| RLED1          | 1k    | Current limiting resistor, choose to taste |
+| R1             | 1M    |  |
+| R2             | 100k  |  |
+| R3             | 1M    |  |
+| R4             | 100k  |  |
+| R5             | 1k    | Current limiting resistor, choose to taste |
 
 ### Capacitors
 
 | Component Name | Value | Note               |
 |----------------|-------|--------------------|
-| C1             | 100nF | Film               |
+| C1             | 33nF  | Film               |
+| C2             | 10u   | Electrolytic       |
+| C3             | 2u2   | Electrolytic       |
+| C4             | 10u   | Electrolytic       |
+| C5             | 100nF | Film               |
+| C6             | 100u  | Electrolytic       |
+| C7             | 100nF | Film               |
 
 ### Diodes
 
 | Component Name | Value   | Note               |
 |----------------|---------|--------------------|
-| D1             | LED 3mm | choose your poison, 5mm works as well. |
-| D2             | 1N5817  |                    |
+| D1             | LED 5mm red | |
+| D2             | 1N34A   |                    |
+| D3             | LED 5mm red | |
+| D4             | 1N5817  |                    |
+| D5             | LED 3mm | Status LED, pick your poison |
 
 ### Transistors
 
@@ -60,16 +72,16 @@ Ground Swell is a clone of Fuzzhugger FX's [Arc Flash](https://www.youtube.com/w
 
 | Component Name | Value   | Note                 |
 |----------------|---------|----------------------|
-| GAIN           | 100kB   | 16mm right angle pot |
-| FREQUENCY      | 100kB   | 16mm right angle pot |
-| LEVEL          | 100kA   | 16mm right angle pot |
-| MODE           | DPDT    | On / On              |
+| RV1 - GAIN     | 500kB   | 16mm right angle pot |
+| RV2 - FREQUENCY| 250kA   | 16mm right angle pot |
+| RV3 - LEVEL    | 100kA   | 16mm right angle pot |
+| SW1 - MODE     | DPDT    | On / On              |
 | Footswitch     | 3PDT    |                      |
 | audio jack x2  | mono    |                      |
 | dc jack        | 9v      |                      |
 
-
 ## Notes
+1. There is a slight difference in the Arc Flash over time. My Arc Flash pedal as R1 connected to lug 3 of RV1 then to ground as opposed to the trace I used from almondcity where it comes off lug 2 of RV1 then to ground. I can't tell a difference between them, so I just kept it the same. If you really want the same version as what I have you can simply leave R1 unoccupied and then solder a 1M resistor to pins 1 and 3 of the RV1 potentiometer.
 
 ## Licensing
 
