@@ -26,6 +26,7 @@ Ground Swell is a clone of Fuzzhugger FX's [Arc Flash](https://www.youtube.com/w
 ![Faceplate](ground-fault-faceplate.png)
 
 ## Tayda Drill Template
+[Tayda 125B](https://drill.taydakits.com/box-designs/new?public_key=VUFTUjk3Z09yUTNtdURocVpsd3NtZz09Cg==) drill template
 
 ## BOM
 
