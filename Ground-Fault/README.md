@@ -1,7 +1,7 @@
 # Ground Fault
 | Front | Guts |
 |-------|------|
-| ![Front](ground-fault-faceplate.png) | ![Guts](ground-fault-pcb.png) |
+| To Do | To Do |
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -18,8 +18,13 @@ Ground Swell is a clone of Fuzzhugger FX's [Arc Flash](https://www.youtube.com/w
 
 ## Schematic
 ![Schematic](ground-fault-schematic.png)
+
 ## PCB
 ![PCB](ground-fault-pcb.png)
+
+## Faceplate
+![Faceplate](ground-fault-faceplate.png)
+
 ## Tayda Drill Template
 
 ## BOM
