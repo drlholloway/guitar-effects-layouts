@@ -24,4 +24,44 @@ Ground Swell is a clone of Fuzzhugger FX's [Arc Flash](https://www.youtube.com/w
 
 ## BOM
 
+### Resistors
+
+| Component Name | Value | Note               |
+|----------------|-------|--------------------|
+| R1             | 1M    | Pull down resistor |
+| RLED1          | 1k    | Current limiting resistor, choose to taste |
+
+### Capacitors
+
+| Component Name | Value | Note               |
+|----------------|-------|--------------------|
+| C1             | 100nF | Film               |
+
+### Diodes
+
+| Component Name | Value   | Note               |
+|----------------|---------|--------------------|
+| D1             | LED 3mm | choose your poison, 5mm works as well. |
+| D2             | 1N5817  |                    |
+
+### Transistors
+
+| Component Name | Value   | Note               |
+|----------------|---------|--------------------|
+| Q1             | 2N5089  |                    |
+| Q2             | 2N5089  |                    |
+
+### Potentiometers, Switches, Jacks, etc.
+
+| Component Name | Value   | Note                 |
+|----------------|---------|----------------------|
+| GAIN           | 100kB   | 16mm right angle pot |
+| FREQUENCY      | 100kB   | 16mm right angle pot |
+| LEVEL          | 100kA   | 16mm right angle pot |
+| MODE           | DPDT    | On / On              |
+| Footswitch     | 3PDT    |                      |
+| audio jack x2  | mono    |                      |
+| dc jack        | 9v      |                      |
+
+
 ## Notes
