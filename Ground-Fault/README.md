@@ -1,4 +1,5 @@
 # Ground Fault
+### Not Verified, all this can change 
 | Front | Guts |
 |-------|------|
 | To Do | To Do |
@@ -20,6 +21,7 @@ Ground Swell is a clone of Fuzzhugger FX's [Arc Flash](https://www.youtube.com/w
 ![Schematic](ground-fault-schematic.png)
 
 ## PCB
+**NOT VERIFIED**
 ![PCB](ground-fault-pcb.png)
 
 ## Faceplate
