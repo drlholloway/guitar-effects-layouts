@@ -26,7 +26,7 @@
 
 ## Tayda Drill Template
 The pedal is designed to use a 125B enclosure. You can use purchase an enclosure from Tayda and use the following template:
-[The Everlasting Tantrum Drill Template](https://drill.taydakits.com/box-designs/new?public_key=S0pqNkJnV1BzY3hzMG5XK1VDK2J4UT09Cg==).
+[The Everlasting Tantrum Drill Template](https://drill.taydakits.com/box-designs/new?public_key=T01rQ1V2Nm5IbWxVeE9hSzU3ZDVIQT09Cg==).
 
 ## BOM
 
