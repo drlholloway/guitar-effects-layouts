@@ -140,8 +140,9 @@ The pedal is designed to use a 125B enclosure. Drill template: To Do
 
 1. Biasing: adjust the RV1 trimmer until you read around 4.75V at the Q2E test point (the emitter of Q2). Chuck's notes say anywhere from 4.5V to 5.0V is fine. If you can't get there with the trimmer try a different JFET for Q1.
 2. D102 and D103 are the eyes, they light up as you play. R13, R15, and C13 can be left off if you aren't using them.
-3. If you use the faceplate, make sure you mount the LEDs directly against the PCB as they will get a stronger light.
-4. The 3PDT foot switch connects to the row of pads at the bottom of the board (JI, IN, GND, SW, OUT, JO) and can be wired using a standard true-bypass wiring scheme or a 3PDT breakout board.
+3. If you use the faceplate, mount the eye LEDs (D102 and D103) as close to the faceplate as possible so they light up the eyes.
+4. The indicator LED (D101) has to be mounted as shown in the guts photo: leave the legs long and lay the LED flat so it reaches past the bottom edge of the board and sits over the hole in the enclosure behind the helmet.
+5. The 3PDT foot switch connects to the row of pads at the bottom of the board (JI, IN, GND, SW, OUT, JO) and can be wired using a standard true-bypass wiring scheme or a 3PDT breakout board.
 
 ## Licensing
 
