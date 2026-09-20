@@ -2,7 +2,7 @@
 ### Not Verified, all this can change 
 
 > [!WARNING]
-> **The current layout is incorrect and needs to be updated.** Do not order PCBs from the gerbers in this folder until a corrected version is posted.
+> **The current layout is incorrect and needs to be updated.** The PCB gerbers have been removed until a corrected version is posted. The faceplate gerbers are still available.
 
 | Front | Guts |
 |-------|------|
