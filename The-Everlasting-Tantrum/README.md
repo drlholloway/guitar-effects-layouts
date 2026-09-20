@@ -36,7 +36,12 @@
 
 ## PCB
 **NOT VERIFIED**
-![PCB](the-everlasting-tantrum-v2-pcb-2026-09-17.png)
+
+| Front | Back |
+|-------|------|
+| ![PCB Front](the-everlasting-tantrum-v2-pcb-front-2026-09-17.png) | ![PCB Back](the-everlasting-tantrum-v2-pcb-back-2026-09-17.png) |
+
+The back is shown as viewed from the back of the board, without the silkscreen artwork so the traces are visible.
 
 Gerbers: [TheEverlastingTantrum-v2_r2026-09-17-GERBER.zip](TheEverlastingTantrum-v2_r2026-09-17-GERBER.zip)
 
