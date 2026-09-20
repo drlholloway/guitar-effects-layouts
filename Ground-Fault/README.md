@@ -1,5 +1,9 @@
 # Ground Fault
 ### Not Verified, all this can change 
+
+> [!WARNING]
+> **The current layout is incorrect and needs to be updated.** Do not order PCBs from the gerbers in this folder until a corrected version is posted.
+
 | Front | Guts |
 |-------|------|
 | To Do | To Do |
@@ -21,7 +25,7 @@ Ground Swell is a clone of Fuzzhugger FX's [Arc Flash](https://www.youtube.com/w
 ![Schematic](ground-fault-schematic.png)
 
 ## PCB
-**NOT VERIFIED**
+**NOT VERIFIED - LAYOUT IS INCORRECT AND NEEDS TO BE UPDATED**
 ![PCB](ground-fault-pcb.png)
 
 ## Faceplate
