@@ -97,7 +97,7 @@ The pedal is designed to use a 125B enclosure. You can use purchase an enclosure
 
 ## Notes
 1. There is a slight difference in the Arc Flash over time. My Arc Flash pedal has R1 connected to lug 3 of the GAIN pot then to ground as opposed to the trace from almondcity where it comes off lug 2 of the GAIN pot then to ground. I can't tell a difference between them. This layout has R1 on lug 3, the same as my pedal.
-2. The coupling between the two transistors has been simplified. The trace uses two capacitors and a resistor between Q1 and Q2, this layout uses just a single capacitor (C3, 2u2).
+2. The coupling between the two transistors has been simplified. The design is obviously two [Bazz Fuss](https://home-wrecker.com/bazz.html) circuits slammed together. The trace couples them with two capacitors and a resistor to ground between Q1 and Q2, but the resistor to ground does nothing, so this layout uses just a single capacitor (C3, 2u2).
 3. The 3PDT foot switch connects to the row of pads at the bottom of the board (IN, GND, SW, OUT). The input and output jacks are wired to the foot switch using a standard true-bypass wiring scheme.
 
 ## Licensing
