@@ -5,7 +5,7 @@ Guitar Effect Pedal Layouts that I've made for sharing with everyone.
 
 | Pedal | Status | Wiki | Files |
 |-------|--------|------|-------|
-| **The Everlasting Tantrum v2** - My take on an unreleased DOD and Devi Ever collaboration with some fun modifications. | Not verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/The-Everlasting-Tantrum-v2) | [The-Everlasting-Tantrum/](The-Everlasting-Tantrum) |
+| **The Everlasting Tantrum v2** - My take on an unreleased DOD and Devi Ever collaboration with some fun modifications. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/The-Everlasting-Tantrum-v2) | [The-Everlasting-Tantrum/](The-Everlasting-Tantrum) |
 | **Biggus Dickus** - A PCB and faceplate for Chuck D. Bones' Biggus Dickus circuit, with a bias trimmer and eyes that light up as you play. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Biggus-Dickus) | [Biggus-Dickus/](Biggus-Dickus) |
 | **Ground Fault** - A PCB of Fuzzhugger FX's long out of production Arc Flash, made from a trace on PedalPCB. | Not verified (layout corrected 2026.09.20) | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Ground-Fault) | [Ground-Fault/](Ground-Fault) |
 

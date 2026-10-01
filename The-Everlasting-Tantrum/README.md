@@ -1,11 +1,13 @@
 # The Everlasting Tantrum v2
-### Not Verified, all this can change
+### Verified
 
-My take on an unreleased DOD and Devi Ever collaboration with some fun modifications. 1590BB enclosure.
+My take on an unreleased DOD and Devi Ever collaboration with some fun modifications. 1590BB enclosure. You can see the build report [here](https://forum.pedalpcb.com/threads/the-everlasting-tantrum-v2.30484/).
 
 **Schematic, PCB, faceplate, BOM, and build notes are on the wiki: [The Everlasting Tantrum v2](https://github.com/drlholloway/guitar-effects-layouts/wiki/The-Everlasting-Tantrum-v2)**
 
-![Faceplate lit red](the-everlasting-tantrum-v2-faceplate-lit-red.png)
+| Front | Guts |
+|-------|------|
+| ![Front](the-everlasting-tantrum-v2-complete.jpg) | ![Guts](the-everlasting-tantrum-v2-guts.jpg) |
 
 ## Files
 
@@ -19,6 +21,8 @@ My take on an unreleased DOD and Devi Ever collaboration with some fun modificat
 | [the-everlasting-tantrum-v2-faceplate-2026-09-17.png](the-everlasting-tantrum-v2-faceplate-2026-09-17.png) | Faceplate |
 | [the-everlasting-tantrum-v2-faceplate-lit-red.png](the-everlasting-tantrum-v2-faceplate-lit-red.png) | Faceplate lit by a red LED |
 | [the-everlasting-tantrum-v2-faceplate-lit-blue.png](the-everlasting-tantrum-v2-faceplate-lit-blue.png) | Faceplate lit by a blue LED |
+| [the-everlasting-tantrum-v2-complete.jpg](the-everlasting-tantrum-v2-complete.jpg) | Completed pedal |
+| [the-everlasting-tantrum-v2-guts.jpg](the-everlasting-tantrum-v2-guts.jpg) | Guts |
 
 ## Licensing
 
