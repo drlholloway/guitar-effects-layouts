@@ -19,6 +19,20 @@ Free boards by other designers, hosted here with their permission. The license b
 | Boneyard Hoof | Chuck D. Bones | Naegele Audio | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Boneyard-Hoof) | [Boneyard-Hoof/](Boneyard-Hoof) |
 | Hybrid Fuzz Driver Deluxe | Chuck D. Bones | Naegele Audio | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Hybrid-Fuzz-Driver-Deluxe) | [Hybrid-Fuzz-Driver-Deluxe/](Hybrid-Fuzz-Driver-Deluxe) |
 
+## Hosted turret layouts
+
+Turret board layouts by EfektPol (DIY Layout Creator files), hosted here with their permission. The license below does not cover them. Files: [EfektPol-Turret-Layouts/](EfektPol-Turret-Layouts)
+
+| Layout | Original | Wiki |
+|--------|----------|------|
+| DOD 250 Overdrive Preamp | DOD 250 Overdrive Preamp | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/EfektPol-DOD-250) |
+| Dunlop GCB-95 Cry Baby | Dunlop GCB-95 Cry Baby | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/EfektPol-Dunlop-GCB-95) |
+| Fulltone OCD | Fulltone OCD | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/EfektPol-Fulltone-OCD) |
+| Green Russian Big Muff | Electro-Harmonix Big Muff Pi (Green Russian) | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/EfektPol-Green-Russian-Big-Muff) |
+| MXR Distortion+ | MXR Distortion+ | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/EfektPol-MXR-Distortion-Plus) |
+| ProCo Rat | ProCo Rat | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/EfektPol-ProCo-Rat) |
+| Univox Super-Fuzz | Univox Super-Fuzz | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/EfektPol-Univox-Super-Fuzz) |
+
 ## Licensing
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
