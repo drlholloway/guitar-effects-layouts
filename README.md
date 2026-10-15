@@ -15,8 +15,8 @@ Free boards by other designers, hosted here with their permission. The license b
 
 | Pedal | Circuit | PCB | Wiki | Files |
 |-------|---------|-----|------|-------|
-| Boneyard Hoof | Chuck D. Bones | PedalBuilder | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Boneyard-Hoof) | [Boneyard-Hoof/](Boneyard-Hoof) |
-| Hybrid Fuzz Driver Deluxe | Chuck D. Bones | PedalBuilder | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Hybrid-Fuzz-Driver-Deluxe) | [Hybrid-Fuzz-Driver-Deluxe/](Hybrid-Fuzz-Driver-Deluxe) |
+| Boneyard Hoof | Chuck D. Bones | Naegele Audio | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Boneyard-Hoof) | [Boneyard-Hoof/](Boneyard-Hoof) |
+| Hybrid Fuzz Driver Deluxe | Chuck D. Bones | Naegele Audio | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Hybrid-Fuzz-Driver-Deluxe) | [Hybrid-Fuzz-Driver-Deluxe/](Hybrid-Fuzz-Driver-Deluxe) |
 
 ## Licensing
 
