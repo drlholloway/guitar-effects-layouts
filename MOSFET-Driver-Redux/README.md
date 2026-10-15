@@ -13,11 +13,11 @@ A PCB and faceplate for Chuck D. Bones' [MOSFET Driver Redux](https://forum.peda
 
 | File | Description |
 |------|-------------|
-| [MosfetDriverRedux_r2026-09-15-GERBER.zip](MosfetDriverRedux_r2026-09-15-GERBER.zip) | PCB gerbers |
+| [MosfetDriverRedux_r2026-10-15-GERBER.zip](MosfetDriverRedux_r2026-10-15-GERBER.zip) | PCB gerbers |
 | [MosfetDriverRedux-Faceplate-r2026-10-15-GERBER.zip](MosfetDriverRedux-Faceplate-r2026-10-15-GERBER.zip) | Faceplate gerbers |
 | [mosfet-driver-redux-schematic.svg](mosfet-driver-redux-schematic.svg) | Schematic |
-| [mosfet-driver-redux-pcb-front-2026-09-15.png](mosfet-driver-redux-pcb-front-2026-09-15.png) | PCB front traces |
-| [mosfet-driver-redux-pcb-back-2026-09-15.png](mosfet-driver-redux-pcb-back-2026-09-15.png) | PCB back traces |
+| [mosfet-driver-redux-pcb-front-2026-10-15.png](mosfet-driver-redux-pcb-front-2026-10-15.png) | PCB front traces |
+| [mosfet-driver-redux-pcb-back-2026-10-15.png](mosfet-driver-redux-pcb-back-2026-10-15.png) | PCB back traces |
 | [mosfet-driver-redux-faceplate-2026-10-15.png](mosfet-driver-redux-faceplate-2026-10-15.png) | Faceplate |
 | [mosfet-driver-redux-complete.jpg](mosfet-driver-redux-complete.jpg) | Completed pedal |
 | [mosfet-driver-redux-guts.jpg](mosfet-driver-redux-guts.jpg) | Guts |
