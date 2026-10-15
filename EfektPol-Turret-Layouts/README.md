@@ -1,6 +1,6 @@
 # EfektPol Turret Layouts
 
-Turret board layouts by **EfektPol** ([@efektpol on Instagram](https://www.instagram.com/efektpol/)), drawn in DIY Layout Creator and hosted here with their permission. They are not covered by this repository's Creative Commons license.
+Turret board layouts by **EfektPol** ([@efektpol on Instagram](https://www.instagram.com/efektpol/)), drawn in DIY Layout Creator.
 
 **Each layout's page on the wiki has the parts list and build notes.**
 
@@ -13,3 +13,9 @@ Turret board layouts by **EfektPol** ([@efektpol on Instagram](https://www.insta
 | [MXR Distortion+](EfektPol-MXR-Distortion-Plus) | MXR Distortion+ | [efektpol-mxr-distortion-plus.diy](efektpol-mxr-distortion-plus.diy) | [efektpol-mxr-distortion-plus-layout.png](efektpol-mxr-distortion-plus-layout.png) |
 | [ProCo Rat](EfektPol-ProCo-Rat) | ProCo Rat | [efektpol-proco-rat.diy](efektpol-proco-rat.diy) | [efektpol-proco-rat-layout.png](efektpol-proco-rat-layout.png) |
 | [Univox Super-Fuzz](EfektPol-Univox-Super-Fuzz) | Univox Super-Fuzz | [efektpol-univox-super-fuzz.diy](efektpol-univox-super-fuzz.diy) | [efektpol-univox-super-fuzz-layout.png](efektpol-univox-super-fuzz-layout.png) |
+
+## Licensing
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+These layouts by EfektPol are licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike). Credit EfektPol when you share them.
