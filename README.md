@@ -9,8 +9,17 @@ Guitar Effect Pedal Layouts that I've made for sharing with everyone.
 | **Biggus Dickus** - A PCB and faceplate for Chuck D. Bones' Biggus Dickus circuit, with a bias trimmer and eyes that light up as you play. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Biggus-Dickus) | [Biggus-Dickus/](Biggus-Dickus) |
 | **Ground Fault** - A PCB of Fuzzhugger FX's long out of production Arc Flash, made from a trace on PedalPCB. | Not verified (layout corrected 2026.09.20) | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Ground-Fault) | [Ground-Fault/](Ground-Fault) |
 
+## Hosted boards
+
+Free boards by other designers, hosted here with their permission. The license below does not cover them; each wiki page credits the designers.
+
+| Pedal | Circuit | PCB | Wiki | Files |
+|-------|---------|-----|------|-------|
+| Boneyard Hoof | Chuck D. Bones | PedalBuilder | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Boneyard-Hoof) | [Boneyard-Hoof/](Boneyard-Hoof) |
+| Hybrid Fuzz Driver Deluxe | Chuck D. Bones | PedalBuilder | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Hybrid-Fuzz-Driver-Deluxe) | [Hybrid-Fuzz-Driver-Deluxe/](Hybrid-Fuzz-Driver-Deluxe) |
+
 ## Licensing
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-These layouts are licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
+My own layouts (the first table) are licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
