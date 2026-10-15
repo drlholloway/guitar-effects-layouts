@@ -21,7 +21,7 @@ Free boards by other designers, hosted here with their permission. The license b
 
 ## Hosted turret layouts
 
-Turret board layouts by EfektPol (DIY Layout Creator files), hosted here with their permission. The license below does not cover them. Files: [EfektPol-Turret-Layouts/](EfektPol-Turret-Layouts)
+Turret board layouts by EfektPol ([@efektpol on Instagram](https://www.instagram.com/efektpol/), DIY Layout Creator files), hosted here with their permission. The license below does not cover them. Files: [EfektPol-Turret-Layouts/](EfektPol-Turret-Layouts)
 
 | Layout | Original | Wiki |
 |--------|----------|------|

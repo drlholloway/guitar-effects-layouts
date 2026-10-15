@@ -1,6 +1,6 @@
 # EfektPol Turret Layouts
 
-Turret board layouts by **EfektPol**, drawn in DIY Layout Creator and hosted here with their permission. They are not covered by this repository's Creative Commons license.
+Turret board layouts by **EfektPol** ([@efektpol on Instagram](https://www.instagram.com/efektpol/)), drawn in DIY Layout Creator and hosted here with their permission. They are not covered by this repository's Creative Commons license.
 
 **Each layout's page on the wiki has the parts list and build notes.**
 
