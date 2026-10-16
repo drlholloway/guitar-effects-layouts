@@ -10,6 +10,18 @@ Guitar Effect Pedal Layouts that I've made for sharing with everyone.
 | **Ground Fault** - A PCB of Fuzzhugger FX's long out of production Arc Flash, made from a trace on PedalPCB. | Not verified (layout corrected 2026.09.20) | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Ground-Fault) | [Ground-Fault/](Ground-Fault) |
 | **MOSFET Driver Redux** - A PCB and faceplate for Chuck D. Bones' MOSFET Driver Redux, a Timmy style op-amp stage into two MOSFET gain stages, with a Tube Driver styled faceplate. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/MOSFET-Driver-Redux) | [MOSFET-Driver-Redux/](MOSFET-Driver-Redux) |
 
+## Utility boards
+
+Footswitch and toggle boards that make the off-board wiring of a pedal easier.
+
+| Board | Status | Wiki | Files |
+|-------|--------|------|-------|
+| **3PDT All Lugs** - A 3PDT footswitch board that brings all nine lugs out to a numbered row of pads, for any wiring you like. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/3PDT-All-Lugs) | [Utility-Boards/3PDT-All-Lugs/](Utility-Boards/3PDT-All-Lugs) |
+| **3PDT Kitchen Sink Board** - A 3PDT footswitch board with pads for everything: DC jack, input and output jacks, battery, LED (with its resistor) and the effect board. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/3PDT-Kitchen-Sink-Board) | [Utility-Boards/3PDT-Kitchen-Sink-Board/](Utility-Boards/3PDT-Kitchen-Sink-Board) |
+| **3PDT LED Board** - A 3PDT footswitch board with the status LED, its resistor and a brightness trimmer on the board. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/3PDT-LED-Board) | [Utility-Boards/3PDT-LED-Board/](Utility-Boards/3PDT-LED-Board) |
+| **3PDT Utility Board** - A small true bypass 3PDT footswitch board with JI / In / Gnd / Sw / Out / JO pads. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/3PDT-Utility-Board) | [Utility-Boards/3PDT-Utility-Board/](Utility-Boards/3PDT-Utility-Board) |
+| **4PDT Order Switcher** - A toggle switch board that swaps the order of two effects (S1 then S2, or S2 then S1), with a bicolor LED that shows which order is selected. | Not verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/4PDT-Order-Switcher) | [Utility-Boards/4PDT-Order-Switcher/](Utility-Boards/4PDT-Order-Switcher) |
+
 ## Hosted boards
 
 Free boards by other designers, hosted here with their permission. The license below does not cover them; each wiki page credits the designers.
@@ -37,4 +49,4 @@ Turret board layouts by EfektPol ([@efektpol on Instagram](https://www.instagram
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-My own layouts (the first table) and EfektPol's turret layouts are licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
+My own layouts (the pedal and utility board tables) and EfektPol's turret layouts are licensed with a Creative Commons BY-NC-SA 4.0 license (Attribution, Non-commercial, Share-alike).
