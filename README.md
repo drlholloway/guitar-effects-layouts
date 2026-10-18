@@ -9,6 +9,7 @@ Guitar Effect Pedal Layouts that I've made for sharing with everyone.
 | **The Everlasting Tantrum v2** - My take on an unreleased DOD and Devi Ever collaboration with some fun modifications. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/The-Everlasting-Tantrum-v2) | [The-Everlasting-Tantrum/](The-Everlasting-Tantrum) |
 | **Ground Fault** - A PCB of Fuzzhugger FX's long out of production Arc Flash, made from a trace on PedalPCB. | Not verified (layout corrected 2026.09.20) | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Ground-Fault) | [Ground-Fault/](Ground-Fault) |
 | **MOSFET Driver Redux** - A PCB and faceplate for Chuck D. Bones' MOSFET Driver Redux, a Timmy style op-amp stage into two MOSFET gain stages, with a Tube Driver styled faceplate. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/MOSFET-Driver-Redux) | [MOSFET-Driver-Redux/](MOSFET-Driver-Redux) |
+| **Proteus** - A PCB and faceplate for MicTester's Si Tone Bender, a four 2N5088 fuzz with Girth, Bias and Volts controls. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Proteus) | [Proteus/](Proteus) |
 
 ## Utility boards
 
