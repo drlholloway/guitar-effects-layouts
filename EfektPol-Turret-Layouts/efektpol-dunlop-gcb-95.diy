@@ -562,9 +562,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="3.9" y="2.0"/>
+        <point x="2.4" y="2.0"/>
         <point x="4.9" y="2.5"/>
-        <point x="4.4" y="2.25"/>
+        <point x="3.6500000000000004" y="2.25"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -1211,8 +1211,8 @@
       <name>W7</name>
       <alpha>127</alpha>
       <controlPoints2>
-        <point x="3.9" y="2.0"/>
-        <point x="4.2" y="1.2"/>
+        <point x="2.4" y="2.0"/>
+        <point x="4.3" y="1.0"/>
         <point x="4.9" y="2.7"/>
         <point x="5.9" y="2.0"/>
       </controlPoints2>
