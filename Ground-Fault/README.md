@@ -14,8 +14,8 @@ A PCB of Fuzzhugger FX's long out of production Arc Flash, made from a trace on 
 
 | File | Description |
 |------|-------------|
-| [GERBER-Ground-Fault-r2026-09-20.zip](GERBER-Ground-Fault-r2026-09-20.zip) | PCB gerbers |
-| [GERBER-Ground-Fault-Faceplate-r2026-09-20.zip](GERBER-Ground-Fault-Faceplate-r2026-09-20.zip) | Faceplate gerbers |
+| [GERBER-Ground-Fault-r2026-11-01.zip](GERBER-Ground-Fault-r2026-11-01.zip) | PCB gerbers |
+| [GERBER-Ground-Fault-Faceplate-r2026-10-23.zip](GERBER-Ground-Fault-Faceplate-r2026-10-23.zip) | Faceplate gerbers |
 | [ground-fault-schematic.svg](ground-fault-schematic.svg) | Schematic |
 | [ground-fault-pcb-front.png](ground-fault-pcb-front.png) | PCB front traces |
 | [ground-fault-pcb-back.png](ground-fault-pcb-back.png) | PCB back traces |
