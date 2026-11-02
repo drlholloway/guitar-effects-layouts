@@ -1,5 +1,5 @@
 # Ground Fault
-### Not Verified, all this can change
+### Verified
 
 A PCB of Fuzzhugger FX's long out of production Arc Flash, made from a trace on PedalPCB. 125B enclosure.
 
