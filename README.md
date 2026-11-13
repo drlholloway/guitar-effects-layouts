@@ -11,7 +11,7 @@ Guitar Effect Pedal Layouts that I've made for sharing with everyone.
 | **Hodag** - A PCB and faceplate based on the Maestro FZ-1B Fuzz-Tone (version 2), a fairly quiet four transistor fuzz with a Texture blend control. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Hodag) | [Hodag/](Hodag) |
 | **MOSFET Driver Redux** - A PCB and faceplate for Chuck D. Bones' MOSFET Driver Redux, a Timmy style op-amp stage into two MOSFET gain stages, with a Tube Driver styled faceplate. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/MOSFET-Driver-Redux) | [MOSFET-Driver-Redux/](MOSFET-Driver-Redux) |
 | **Proteus** - A PCB and faceplate for MicTester's Si Tone Bender, a four 2N5088 fuzz with Girth, Bias and Volts controls. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Proteus) | [Proteus/](Proteus) |
-| **Supreme Fart Machine** - A PCB and faceplate for Chuck D. Bones' Supreme Fart Machine, his reworked EHX Ripped Speaker: a three transistor fuzz with a Rip gating control and a lit goggle eye. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Supreme-Fart-Machine) | [Supreme-Fart-Machine/](Supreme-Fart-Machine) |
+| **Supreme Fart Machine** - A PCB for Chuck D. Bones' Supreme Fart Machine, his reworked EHX Ripped Speaker: a three transistor fuzz with a Rip gating control. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Supreme-Fart-Machine) | [Supreme-Fart-Machine/](Supreme-Fart-Machine) |
 
 ## Utility boards
 
