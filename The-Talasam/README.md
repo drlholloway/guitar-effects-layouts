@@ -1,5 +1,5 @@
 # The Talasam
-### Not verified
+### Verified
 
 A PCB for the Bulgarian Fuzz, a three transistor NPN germanium fuzz from a vintage Bulgarian schematic, as redrawn by [PCB Guitar Mania](https://pcbguitarmania.com/?p=24171), with Gain, Depth, Tone and Level controls and a Compensation switch. 125B enclosure.
 
