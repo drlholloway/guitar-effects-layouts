@@ -12,7 +12,7 @@ Guitar Effect Pedal Layouts that I've made for sharing with everyone.
 | **MOSFET Driver Redux** - A PCB and faceplate for Chuck D. Bones' MOSFET Driver Redux, a Timmy style op-amp stage into two MOSFET gain stages, with a Tube Driver styled faceplate. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/MOSFET-Driver-Redux) | [MOSFET-Driver-Redux/](MOSFET-Driver-Redux) |
 | **Proteus** - A PCB and faceplate for MicTester's Si Tone Bender, a four 2N5088 fuzz with Girth, Bias and Volts controls. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Proteus) | [Proteus/](Proteus) |
 | **Supreme Fart Machine** - A PCB for Chuck D. Bones' Supreme Fart Machine, his reworked EHX Ripped Speaker: a three transistor fuzz with a Rip gating control. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/Supreme-Fart-Machine) | [Supreme-Fart-Machine/](Supreme-Fart-Machine) |
-| **The Talasam** - A PCB for the Bulgarian Fuzz, a three transistor NPN germanium fuzz with Gain, Depth and a Compensation switch. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/The-Talasam) | [The-Talasam/](The-Talasam) |
+| **The Talasam** - A PCB and faceplate for the Bulgarian Fuzz, a three transistor NPN germanium fuzz with Gain, Depth and a Compensation switch. | Verified | [Wiki page](https://github.com/drlholloway/guitar-effects-layouts/wiki/The-Talasam) | [The-Talasam/](The-Talasam) |
 
 ## Utility boards
 

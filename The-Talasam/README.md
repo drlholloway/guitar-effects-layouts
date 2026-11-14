@@ -1,7 +1,7 @@
 # The Talasam
 ### Verified
 
-A PCB for the Bulgarian Fuzz, a three transistor NPN germanium fuzz from a vintage Bulgarian schematic, as redrawn by [PCB Guitar Mania](https://pcbguitarmania.com/?p=24171), with Gain, Depth, Tone and Level controls and a Compensation switch. 125B enclosure.
+A PCB and faceplate for the Bulgarian Fuzz, a three transistor NPN germanium fuzz from a vintage Bulgarian schematic, as redrawn by [PCB Guitar Mania](https://pcbguitarmania.com/?p=24171), with Gain, Depth, Tone and Level controls and a Compensation switch. 125B enclosure.
 
 **Schematic, PCB, BOM, and build notes are on the wiki: [The Talasam](https://github.com/drlholloway/guitar-effects-layouts/wiki/The-Talasam)**
 
@@ -13,6 +13,9 @@ A PCB for the Bulgarian Fuzz, a three transistor NPN germanium fuzz from a vinta
 | [the-talasam-schematic.svg](the-talasam-schematic.svg) | Schematic |
 | [the-talasam-pcb-front-2026-10-12.png](the-talasam-pcb-front-2026-10-12.png) | PCB front traces |
 | [the-talasam-pcb-back-2026-10-12.png](the-talasam-pcb-back-2026-10-12.png) | PCB back traces |
+| [GERBER-The-Talasam-Faceplate-r2026-10-23.zip](GERBER-The-Talasam-Faceplate-r2026-10-23.zip) | Faceplate gerbers |
+| [the-talasam-faceplate-2026-10-23.png](the-talasam-faceplate-2026-10-23.png) | Faceplate render |
+| [the-talasam-faceplate-lit-blue.png](the-talasam-faceplate-lit-blue.png) | Faceplate render, LED lit |
 
 ## Licensing
 
