@@ -9,10 +9,10 @@ A PCB and faceplate for Christine by The Tone God, an oscillating glitch fuzz bu
 
 | File | Description |
 |------|-------------|
-| [GERBER-Fresno-Nightcrawler-r2026-11-14.zip](GERBER-Fresno-Nightcrawler-r2026-11-14.zip) | PCB gerbers |
+| [GERBER-Fresno-Nightcrawler-r2026-11-15.zip](GERBER-Fresno-Nightcrawler-r2026-11-15.zip) | PCB gerbers |
 | [fresno-nightcrawler-schematic.svg](fresno-nightcrawler-schematic.svg) | Schematic |
-| [fresno-nightcrawler-pcb-front-2026-11-14.png](fresno-nightcrawler-pcb-front-2026-11-14.png) | PCB front traces |
-| [fresno-nightcrawler-pcb-back-2026-11-14.png](fresno-nightcrawler-pcb-back-2026-11-14.png) | PCB back traces |
+| [fresno-nightcrawler-pcb-front-2026-11-15.png](fresno-nightcrawler-pcb-front-2026-11-15.png) | PCB front traces |
+| [fresno-nightcrawler-pcb-back-2026-11-15.png](fresno-nightcrawler-pcb-back-2026-11-15.png) | PCB back traces |
 | [GERBER-Fresno-Nightcrawler-Faceplate-r2026-10-23.zip](GERBER-Fresno-Nightcrawler-Faceplate-r2026-10-23.zip) | Faceplate gerbers |
 | [fresno-nightcrawler-faceplate-2026-10-23.png](fresno-nightcrawler-faceplate-2026-10-23.png) | Faceplate render |
 | [fresno-nightcrawler-faceplate-lit-red.png](fresno-nightcrawler-faceplate-lit-red.png) | Faceplate render, LED lit |
