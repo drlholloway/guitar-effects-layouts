@@ -1,5 +1,5 @@
 # Colonel Angus
-### Not verified
+### Verified
 
 A PCB and faceplate for Chuck D. Bones' [Colonel Angus](https://forum.pedalpcb.com/threads/this-week-on-the-breadboard-the-pussy-melter-aka-colonel-angus.29701/), his stripped-down Steel Panther Pussy Melter: a CA3140 gain stage with red LED clipping into a BS170 MOSFET stage with a bias trimmer, with Love, South, Heat and Deep controls and a three-way Humidity switch. 125B enclosure.
 
